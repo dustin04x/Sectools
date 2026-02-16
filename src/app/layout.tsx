@@ -18,7 +18,12 @@ const fontMono = JetBrains_Mono({
 
 export const metadata: Metadata = {
   title: 'SecTools - Security Toolkit',
-  description: 'A unified desktop security toolkit for penetration testers and security professionals',
+  description: 'A unified browser-based security toolkit for penetration testers and security professionals',
+  icons: {
+    icon: '/icon.svg',
+    shortcut: '/icon.svg',
+    apple: '/icon.svg',
+  },
 };
 
 export default function RootLayout({
