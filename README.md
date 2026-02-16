@@ -1,7 +1,7 @@
 # SecTools
 
 <p align="center">
-  <img src="assets/readme-banner.svg" alt="SecTools banner" width="100%">
+  <img src="assets/banner.png" alt="SecTools banner" width="100%">
 </p>
 
 <p align="center">
